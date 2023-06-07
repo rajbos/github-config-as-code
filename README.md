@@ -1,5 +1,5 @@
 # Configuration as code for the GitHub Platform
-
+Blogpost with explanation can be found on [https://devopsjournal.io](https://devopsjournal.io/blog/2022/03/12/GitHub-config-as-code).  
 Overview repository for this setup. Since most of these items need to be running in a separate org, I created them on [robs-tests](https://github.com/robs-tests/).
 
 # 1) Automate user onboarding and repository creation
